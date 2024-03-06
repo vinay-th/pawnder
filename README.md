@@ -1,7 +1,8 @@
 # 🐾 PawNder 🐾
 
 Welcome to PawNder! A website where you can meet new and interesting dogs nearby.
-Check it out here(#https://vinay-th.github.io/pawnder/)
+Check it out here: [PawNder](https://vinay-th.github.io/pawnder/)
+
 
 ## Table of Contents 📜
 
