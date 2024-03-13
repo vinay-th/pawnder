@@ -42,9 +42,6 @@ PawNder is a web application designed to help dogs find companionship nearby. It
 
 Open the `index.html` file in your web browser to use PawNder.
 
-## Contributing 🤝
-
-Contributions are welcome! Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
 
 ## License 📄
 
